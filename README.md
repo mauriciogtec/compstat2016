@@ -11,6 +11,7 @@ Aquí van a encontrar instrucciones de la tareas.
 - *Función inversa*
 - *Integración Numérica con Monte Carlo*
 - *Simulación de cadenas de Markov*
+- *Markov Chain Monte Carlo*
 
 Deberán crear una una aplicación de shiny.
 
